@@ -1,0 +1,90 @@
+<!-- Start Single Service -->
+                        <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
+                            <div class="service foo">
+                                <div class="service__thumb">
+                                    <a href="service.html">
+                                        <img src="images/service/1.jpg" alt="service img">
+                                    </a>
+                                </div>
+                                <div class="service__details">
+                                    <h2><a href="service.html">Design & Planting</a></h2>
+                                    <p>It is a long established fact that a reader will be distracted by readable</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Service -->
+                        <!-- Start Single Service -->
+                        <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
+                            <div class="service foo">
+                                <div class="service__thumb">
+                                    <a href="service.html">
+                                        <img src="images/service/2.jpg" alt="service img">
+                                    </a>
+                                </div>
+                                <div class="service__details">
+                                    <h2><a href="service.html">Watering & Irrigation</a></h2>
+                                    <p>It is a long established fact that a reader will be distracted by readable</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Service -->
+                        <!-- Start Single Service -->
+                        <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
+                            <div class="service foo">
+                                <div class="service__thumb">
+                                    <a href="service.html">
+                                        <img src="images/service/3.jpg" alt="service img">
+                                    </a>
+                                </div>
+                                <div class="service__details">
+                                    <h2><a href="service.html">Garden Care</a></h2>
+                                    <p>It is a long established fact that a reader will be distracted by readable</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Service -->
+                        <!-- Start Single Service -->
+                        <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
+                            <div class="service foo">
+                                <div class="service__thumb">
+                                    <a href="service.html">
+                                        <img src="images/service/4.jpg" alt="service img">
+                                    </a>
+                                </div>
+                                <div class="service__details">
+                                    <h2><a href="service.html">Plant & Removal</a></h2>
+                                    <p>It is a long established fact that a reader will be distracted by readable</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Service -->
+                        <!-- Start Single Service -->
+                        <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
+                            <div class="service foo">
+                                <div class="service__thumb">
+                                    <a href="service.html">
+                                        <img src="images/service/5.jpg" alt="service img">
+                                    </a>
+                                </div>
+                                <div class="service__details">
+                                    <h2><a href="service.html">24/7 Special Service</a></h2>
+                                    <p>It is a long established fact that a reader will be distracted by readable</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Service -->
+                        <!-- Start Single Service -->
+                        <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
+                            <div class="service foo">
+                                <div class="service__thumb">
+                                    <a href="service.html">
+                                        <img src="images/service/6.jpg" alt="service img">
+                                    </a>
+                                </div>
+                                <div class="service__details">
+                                    <h2><a href="service.html">Lawn Moving</a></h2>
+                                    <p>It is a long established fact that a reader will be distracted by readable</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Service -->
