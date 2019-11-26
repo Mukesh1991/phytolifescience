@@ -57,7 +57,7 @@
                             <div class="ht__address">
                                 <h2>Email</h2>
                                 <div class="ht__address__info">
-                                    <p><a href="#">phytologix.ls@gmail.com</a></p>
+                                    <p><a href="#">way-phytologix.LS@gmail.com</a></p>
                                 </div>
                             </div>
                         </div>

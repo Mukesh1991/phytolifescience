@@ -58,7 +58,7 @@
                         </div>
                         <div class="col-md-6 col-sm-6 hidden-xs">
                             <ul class="htc__contact">
-                                <li><a href="#"><span class="bi bi-envelop"></span>phytologix.ls@gmail.com</a></li>
+                                <li><a href="#"><span class="bi bi-envelop"></span>way-phytologix.LS@gmail.com</a></li>
                                 <li><a href="#"><span class="bi bi-phone"></span>0172-5002750, +919888002750</a></li>
                             </ul>
                         </div>
@@ -105,9 +105,11 @@
                                 </div> 
                             </div>
                             <div class="col-md-3 col-sm-8 col-xs-12">
+                                <!--
                                 <div class="menu__btn hidden-sm hidden-xs">
                                     <a class="htc__btn" href="#">Download Brochure</a>
-                                </div>
+                                </div>-->
+                                
                                 <div class="menu__text hidden-md hidden-lg">
                                     <a href="index.html">Menu</a>
                                 </div>

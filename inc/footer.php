@@ -7,10 +7,19 @@
                         <!-- Start Single Widget -->
                         <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
                             <div class="footer">
-                                <h2 class="ft__title">PHYTOLOGIX LIFE SCIENCES</h2>
+                                <div class="block_first_header">
+                                    <h2 class="ft__title">PHYTOLOGIX LIFE SCIENCES</h2>
+                                    <div class="ft__details">
+                                        <p>(WHO-GMP & ISO 9001:2015 certified)</p>
+                                        <p><strong>Address : </strong>Plot no.500,Phase-9,<br>Industrial Area, S.A.S.Nagar(MOHALI)-160062</p>
+                                    </div>
+                                    
+                                </div> 
+                                
+                               <!-- <h2 class="ft__title">PHYTOLOGIX LIFE SCIENCES</h2>
                                 <div class="ft__details">
                                     <p>(WHO-GMP & ISO 9001:2015 certified)</p>
-                                </div>
+                                </div>-->
                                 <ul class="team__social__link">
                                     <li><a href="https://twitter.com/devitemsllc" target="_blank"><i class="icofont icofont-social-twitter"></i></a></li>
 
@@ -63,7 +72,7 @@
                                     <li><a href="#"><i class="icofont icofont-location-pin"></i>Plot no.500,Phase-9, Industrial Area,<br>
                                         S.A.S.Nagar(MOHALI)-160062</a></li>
                                     <li><a href="#"><i class="icofont icofont-phone"></i>01725002750, 9888002750</a></li>
-                                    <li><a href="#"><i class="icofont icofont-email"></i>phytologix.ls@gmail.com</a></li>
+                                    <li><a href="#"><i class="icofont icofont-email"></i>way-phytologix.LS@gmail.com</a></li>
                                 </ul>
                             </div>
                         </div>
