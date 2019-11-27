@@ -41,7 +41,7 @@
                             <div class="htc__about__inner">
                                 <h2>Welcome To Phytologix life Sciences</h2>
                                 <div class="about__dtl">
-                                    <p>We have recently put up our manufacturing unit after a long experience of 17 years of ethical marketing.We manufacture Tablets, Capsules, Liquids, Sachets & Protein powder under one roof.We are third party manufacturer of quality branded nutraceutical products like Coenzyme Q10, Rosehip Extract,  Collagen peptides, Levocarnitine etc.In simple terms, nutraceutical are food products which provide health & medical benefits in the prevention of chronic diseases like osteoarthritis, osteoporosis, heart disease etc.</p>
+                                    <p>We have recently put up our manufacturing unit after a long experience of 17 years of ethical marketing.We manufacture Tablets, Capsules, Liquids, Sachets & Protein powder under one roof. We are third party manufacturer of quality branded nutraceutical products like Coenzyme Q10, Rosehip Extract,  Collagen peptides, Levocarnitine etc.</p>
                                     
                                 </div>
                                 <div class="about__btn">
