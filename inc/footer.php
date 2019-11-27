@@ -59,8 +59,6 @@
                                     <li><a href="#">RTGS/NEFT IFS Code : ICIC0003421 </a></li>
                                                                     
                                 </ul>
-                                
-                                
                             </div>
                         </div>
                         <!-- Start Single Widget -->
