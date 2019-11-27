@@ -51,7 +51,7 @@
                     <div class="row">
                         <div class="col-md-3 col-sm-3 col-xs-12">
                             <div class="logo">
-                                <a href="index.html">
+                                <a href="index.php">
                                     <img src="images/logo/greenin.png" alt="logo images">
                                 </a>
                             </div>
@@ -86,8 +86,7 @@
                                 <nav class="main__menu__nav hidden-xs hidden-sm">
                                     <ul class="main__menu">
                                         <li class="drop"><a href="index.php"><img src="images/icons/menu.png" alt="icon image"></a></li>
-                                        <li><a href="about.php">About Us</a></li>
-                                        <li><a href="service.php">SERVICES</a></li>
+                                        <li><a href="about.php">ABOUT US</a></li>
                                         <li class="drop"><a href="product.php">PRODUCTS</a></li>
                                         <li><a href="contact.php">CONTACT</a></li>
                                     </ul>
@@ -96,8 +95,7 @@
                                     <nav id="mobile_dropdown">
                                         <ul>
                                             <li><a href="index.php">Home</a></li>
-                                            <li><a href="about.php">About Us</a></li>
-                                            <li><a href="service.php">SERVICES</a></li>
+                                            <li><a href="about.php">ABOUT US</a></li>
                                             <li><a href="product.php">Products</a></li>
                                             <li><a href="contact.php">CONTACT</a></li>
                                         </ul>

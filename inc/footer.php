@@ -39,7 +39,7 @@
                                <h2 class="ft__title">Quick Link</h2>
                                 <ul class="ht__link">
                                     <li><a href="about.php">About us</a></li>
-                                    <li><a href="service.php">Services</a></li>
+                                    <li><a href="product.php">Products</a></li>
                                     <li><a href="#">Privacy Policy</a></li>
                                     <li><a href="#">Tearms & Condition</a></li>
                                 </ul>

@@ -12,7 +12,7 @@
                                 <div class="slider__inner">
                                     <h1 class="anmation-one cd-headline cx-heading loading-bar">WHO-GMP certified & ISO 9001:2015 certified Company</h1>
                                     <div class="slider__btn">
-                                        <a class="htc__btn" href="#">Know More</a>
+                                        <a class="htc__btn" href="contact.php">Know More</a>
                                     </div>
                                 </div>
                             </div>
@@ -31,7 +31,7 @@
                     <div class="col-xs-12">
                         <div class="section__title text-center foo">
                             <h2 class="title__line">About <span class="text--theme">Phytologix life Sciences</span></h2>
-                            <p>There are many variations of in some form, by injected.</p>
+                            <!--<p>There are many variations of in some form, by injected.</p>-->
                         </div>
                     </div>
                 </div>
@@ -41,12 +41,11 @@
                             <div class="htc__about__inner">
                                 <h2>Welcome To Phytologix life Sciences</h2>
                                 <div class="about__dtl">
-                                    <p>WHO-GMP certified & ISO 9001:2015 certified company. We are third party manufacturer of nutraceutical Tablets/ Capsule/Liquid/Sachet/ Protein powders.
-We manufacture molecules like Rosehip extract, Collagen peptide, coenzymeQten, Lycopene, Calcium , iron etc </p>
+                                    <p>We have recently put up our manufacturing unit after a long experience of 17 years of ethical marketing.We manufacture Tablets, Capsules, Liquids, Sachets & Protein powder under one roof.We are third party manufacturer of quality branded nutraceutical products like Coenzyme Q10, Rosehip Extract,  Collagen peptides, Levocarnitine etc.In simple terms, nutraceutical are food products which provide health & medical benefits in the prevention of chronic diseases like osteoarthritis, osteoporosis, heart disease etc.</p>
                                     
                                 </div>
                                 <div class="about__btn">
-                                    <a class="htc__btn" href="#">Read More</a>
+                                    <a class="htc__btn" href="about.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -58,24 +57,10 @@ We manufacture molecules like Rosehip extract, Collagen peptide, coenzymeQten, L
                     </div>
                 </div>
             </div>
-        </section>
-        <!-- End About Area -->
+            </section>
+            <!-- End About Area -->
 
 
-         <!-- Our Mission And Vision Area -->
-        <section class="htc__about__area ptb--120 bg__white mission_vision">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12">
-                        <div class="section__title text-center foo">
-                            <h2 class="title__line"><span class="text--theme">Our Vision</span> & <span class="text--theme">Our Mission</span></h2>
-                            <p>There are many variations of in some form, by injected.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End of Our Mission And Vision Area -->     
-      
+                             
        
   <?php include 'inc/footer.php';?>
