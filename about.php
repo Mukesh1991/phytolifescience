@@ -21,9 +21,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12">
-                        <div class="section__title text-center foo">
+                        <div class="section__title text-center foo about_inner">
                             <h2 class="title__line">About <span class="text--theme">Phytologix life Sciences</span></h2>
-                            <p>There are many variations of passages of Lorem Ipsum duskam, but the majority have suffered alteration in some form, by injected.</p>
+                            <p>We have recently put up our manufacturing unit after a long experience of 17 years of ethical marketing.We manufacture Tablets, Capsules, Liquids, Sachets & Protein powder under one roof.We are third party manufacturer of quality branded nutraceutical products like Coenzyme Q10, Rosehip Extract,  Collagen peptides, Levocarnitine etc.</p>
+                                    <p>In simple terms, nutraceutical are food products which provide health & medical benefits in the prevention of chronic diseases like osteoarthritis, osteoporosis, heart disease etc.We manufacture the products by maintaining high quality manufacturing standard. We are WHO-GMP & ISO 9001:2015 certified company.
+                                    </p>
                         </div>
                     </div>
                 </div>
@@ -32,15 +34,15 @@
                         <div class="col-md-6 col-sm-12 col-xs-12 foo">
                             <div class="htc__about__inner--2">
                                 <div class="htc__about__content">
-                                    <h2>Our Vission</h2>
+                                    <h2>Our Vision</h2>
                                     <div class="about__dtl">
-                                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less.</p>
+                                        <p>Our vision is to develop and deliver innovative nutraceutical molecules for our clients all over India and abroad.</p>
                                     </div>
                                 </div>
                                 <div class="htc__about__content">
                                     <h2>Our Mission</h2>
                                     <div class="about__dtl">
-                                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less.</p>
+                                        <p>To provide quality healthcare products to general public to help them prevent chronic diseases & enhance their quality of life.</p>
                                     </div>
                                 </div>
                                 <!--<div class="about__btn">
@@ -63,14 +65,14 @@
                     
                     
                     
-                      <div class="col-md-12">
+                     <!-- <div class="col-md-12">
                               <div class="about__dtl">
                                    <br><br>
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut</p>
-                                    
-                                     <p> labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur</p>
+                                    <p>We have recently put up our manufacturing unit after a long experience of 17 years of ethical marketing.We manufacture Tablets, Capsules, Liquids, Sachets & Protein powder under one roof.We are third party manufacturer of quality branded nutraceutical products like Coenzyme Q10, Rosehip Extract,  Collagen peptides, Levocarnitine etc.</p>
+                                    <p>In simple terms, nutraceutical are food products which provide health & medical benefits in the prevention of chronic diseases like osteoarthritis, osteoporosis, heart disease etc.We manufacture the products by maintaining high quality manufacturing standard. We are WHO-GMP & ISO 9001:2015 certified company.
+                                    </p>
                             </div>
-                        </div>
+                        </div>-->
                 </div>
                 
                 
