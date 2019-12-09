@@ -23,3 +23,49 @@
 	text-align: justify;
 	width: 100%;
 }
+
+/* CSS used here will be applied after bootstrap.css */
+
+
+/* for product page */
+
+#carousel {
+    margin-top: 0px;
+}
+.item .thumb {
+	width: 24%;
+	cursor: pointer;
+	float: left;
+}
+.item .thumb img, .item img {
+	width: 100%;	
+}
+
+
+.bradcaump-title.inner-slide {
+	color: #49a010 !important;
+	padding-bottom: 45px;
+}
+
+
+.product-slider .text-center {
+  padding-top: 50px;
+}
+.thumb {
+  margin-right: 15px;
+}
+.right.carousel-control {
+  background: transparent;
+}
+.product-slider .container {
+  padding: 0;
+}
+.thumb:last-child {
+   margin: 0;
+}
+
+.service--page {
+  margin: 0 !important;
+  padding-top: 60px;
+}
+/* for product page */
