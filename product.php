@@ -20,9 +20,6 @@
         
         
         <div class="product-slider">
-                            <div class="bradcaump__inner text-center">
-                                <h2 class="bradcaump-title inner-slide">Tablets</h2>
-                            </div>
         <div class="container">
                
                
@@ -88,66 +85,17 @@
             <div class="container">
                 <div class="row">
                    
-                   <!---
-                    <div class="htc__service__wrap">
-                       
-                        <!-- Start Single Service -->
-                        <!--<div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                            <div class="service foo">
-                                <div class="service__thumb">
-                                    <a href="service.html">
-                                        <img src="images/sucrose.gif" alt="service img">
-                                    </a>
-                                </div>
-                                <div class="service__details">
-                                    <h2><a href="service.html">Food Molecules</a></h2>
-                                    <p>What are foods? Read about Fats, Fatty acids, Trans Fatty Acids, Proteins, Amino Acids, Carbohydrates, Phenolics, Aroma and Taste</p>
-                                </div>
-                            </div>
-                        </div>-->
-                        <!-- End Single Service -->
-                        
-                        <!-- Start Single Service -->
-                        <!--<div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                            <div class="service foo">
-                                <div class="service__thumb">
-                                    <a href="service.html">
-                                        <img src="images/curcumin.gif" alt="service img">
-                                    </a>
-                                </div>
-                                <div class="service__details">
-                                    <h2><a href="service.html">Antioxidants</a></h2>
-                                    <p>Many compounds have been shown to have positive antioxidants effects . Read about Carotenoids, Vitamin E, Resveratrol, Epicatechin, Vitamin C, Proanthocyanidins...</p>
-                                </div>
-                            </div>
-                        </div>-->
-                        <!-- End Single Service -->
-                        
-                        <!-- Start Single Service -->
-                        <!--<div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                            <div class="service foo">
-                                <div class="service__thumb">
-                                    <a href="service.html">
-                                        <img src="images/folicacid.jpg" alt="service img">
-                                    </a>
-                                </div>
-                                <div class="service__details">
-                                    <h2><a href="service.html">Supplements</a></h2>
-                                    <p>What is a food supplement? Read about the B vitamins, Vitamin D, Quercetin, Resveratrol, Vitamin E, Vitamin K, Vitamin C, Herbs and Botanicals, Amino Acids ...</p>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        
-                        
-                        
-                       
-                        
-                        
-                       
-                    </div>--><!-- End Single Service -->
+                   
+                    
+                    <!-- Product table -->
                     
                     
+                    <!-- Product table type-1 -->
+                    
+             
+                                 
+                                  
+                            
                     <div class="product_name_table">
                         <table class="table table-bordered">
                             <thead>
@@ -313,11 +261,251 @@ B1 1mg, Vitinam B6 1mg Tablets</td>
                     </div>
                     
                     
+                    <!-- End of Product table type-1 -->
+                          
+                          
+                          
+                           
+                    <div class="product_name_table">
+                        <table class="table table-bordered">
+                            <thead>
+                              <tr>
+                                <th>CAPSULES</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                <td>1. Rosehip Extract 275mg, Vitamin C 362.5mg Capsules</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>2. Rosehip Extract 275mg, Vitamin C 20mg, Curcumin 250mg Capsules</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>3. Rosehip Extract 275mg, Devil’s Claw Extract(20%) 100mg, Boswellia Serrata Extract(65%) 307.5mg Capsules</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>4. Lactobacillus Acidophilus 1.25billion, Lacto Rhamnous 1.25billion. Bifidobacterium Longum 1.25billion, Sacchromyces Boulardi 1.2billion, Thermophyllus 1.25billion, Fungal Amylase 50mg, Fructo Oligo Saccha-rides 100mg, Zinc Capsule</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>5. Lycopene(10%) 2000mcg, Vit A 1500mcg, Alfatocopherol Acetate 10mg, Vit C 40mg, Zinc 27mg and Selenium 34mcg Capsule</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>6. Lycopene(10%) 5000mcg, Vit A 1500mcg, Alfatocopherol Acetate 10mg, Vit C 40mg, Zinc 27mg and Selenium 34mcg Capsule</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>7. Lycopene(10%) 5000mcg, Grape Seed Extract 50mg, Chromium Picolinate, Lutein and Selenium Capsule </td>
+                                
+                              </tr>
+                              <tr>
+                                <td>8. Alpha Lipoic Acid, Chromium Picolnate and Multivitamin Capsule</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>9. Ginseng Extract 42.5mg, Grap Seed Extract 5mg, Green Tea Extract 10mg, Ginkgo Biloba Extract 5mg,
+Lycopene(10%) 5000mcg, Vit C 40mg, Vit E 10mg, Vit B1 1mg, Vit B6 1mg, Vit A 1500mcg, Folic Acid
+200mcg, Vit D3 200 IU, Zinc 10mg, Copper 30mcg, Lysin 10mg, Selenium 30mcg, Chromium 250mcg,
+Potassium Chloride 2mg Capsules
+</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>10. Ginkgo Biloba Extract Capsule</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>11. Ginkgo Biloba Extract, Methylcobalamin Capsule</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>12. Ginseng Extract, Omega 3 Fatty Acids, Grape Seed Extract and Green Tea Extract Capsules</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>13. Omega 3 Fatty Acid(DHA 210mg, EPA 315mg), Vit E 10IU</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>14. Glutathione 50mg, Alpha Lipoic Acid 50mg, Vit C 100mg, Grape Seed ext 50mg, L-Arginine 50mg</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>15. Carbonyl Iron 100mg, Zinc Sulphate 61.8mg, Vitamin C 50mg, Folic acid 1.5mg, Vit B12 5mcg</td>
+                                
+                              </tr>
+                              
+                               
+                              
+                            </tbody>
+                          </table>
+                    </div>
+                        
+                    
+        <!-- End of Product table-2 -->
+                    
+                                
+                          
+                           
+                    <div class="product_name_table">
+                        <table class="table table-bordered">
+                            <thead>
+                              <tr>
+                                <th>LIQUIDS</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                <td>1. Each 5ml contains Cholecalciferol 60,000 IU</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>2. Thiamin .75mg, Riboflavin .75mg, Pyridoxine .5mg, Vit B3 7.5mg, Vit B5 1025mcg, Vit. B12 .5mcg,
+L-Lysine Hydrochloride 5mg, Vit A 1250 IU, Vit E 2.5 IU, Vit D 100IU, Zinc 5mg, Iodine 38mcg,
+Selenium 10mcg, Copper 25mcg Syrup 
+</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>3. Ferrous Ascorborate eq to Elemental Iron 30mg, Folic Acid, Cyanocobalamin with Zinc Sulphate Syrup</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>4. Calcium Carbonate 625mg eq to Elemental Calcium 250mg, Magnesium Hydroxide eq to Elemental Magnesium 25mg, Vitamin D3 200IU, Zinc 1.5mg Suspension</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>5. Lycopene, l-Lysine, Multi Minerals Multi Vitamin Syrup	</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>6. Protein Hydrolysates, Pepsin, Nicotinamide, Vitamin B1 and B6 Syrup</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>7. L-Ornithine and Multivitamin Syrup</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>8. Each 5 ml contains Fungal Diastase(1:1200)  50mg (Fungal Diastase derived from Aspergillus Oryzae. Digests not less than 60 g of cooked starch), Pepsin(1:3000) 10mg (Digests not less than 30gm of coagulated egg albumin) Syrup</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>9. Methylcobalamin, Vit B1, Vit B2, Vit B6, Biotin, Folic Acid syp</td>
+                                
+                              </tr>
+                            </tbody>
+                          </table>
+                    </div>
+                        
+                    
+        <!-- End of Product table-2 -->
+                    
+                                
+                          
+                           
+                    <div class="product_name_table">
+                        <table class="table table-bordered">
+                            <thead>
+                              <tr>
+                                <th>SACHET</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                <td>1. Each 1gm sachet contains-Lactobacillus Acidophilus 312.5billion, Lacto Rhamnous 312.5billion,
+Bifidobacterium Longum 312.5billion, Sacchromyces Boulardi 312.5billion, Fungal Amylase 50mg,
+Fructo Oligo Saccharides 100mg, Zinc 10mg 
+</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>2. Each 1gm sachet contains- Vitamin D3 (cholecalciferol) 60,000 IU Granules 	</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>3. Each 5gm sachet contains- L- Arginine 3gm, Proanthocyanidines 75mg </td>
+                                
+                              </tr>
+                              <tr>
+                                <td></td>
+                                
+                              </tr>
+                              <tr>
+                                <td>4. L- Arginine 3gm, Proanthocyanidines 75mg, Magnesium Sulphate 100mg, Zinc 10mg, Vit B6 3mg, Folicacid 300mcg, Methylcobalamin 150mcg,</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>5. L-Glutamin Sachet</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>6. Glucosamine, Collagen Hydrolysed and Vitamin C Sachet</td>
+                                
+                              </tr>
+                              <tr>
+                                <td></td>
+                                
+                              </tr>
+                              <tr>
+                                <td>7. Curcuminoids, Collagen, Piper Nigrum Boswellia Serrate, Hyaluronic Acid Sachet</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>8. Saccharomyces Boulardil Sachet</td>
+                                
+                              </tr>
+                              <tr>
+                                <td>9. Each 5gm sachet contains- Myo-inositol 2gm, D-Chiro-inositol 50mg , L-Methylfolate calcium 1mg ,Vitamin D3 1000IU</td>
+                                
+                              </tr>
+                              
+                            </tbody>
+                          </table>
+                    </div>
+                        
+                    
+        <!-- End of Product table-2 -->
+                    
+                                
+                          
+                           
+                    <div class="product_name_table">
+                        <table class="table table-bordered">
+                            <thead>
+                              <tr>
+                                <th>PROTEIN POWDER</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                <td>Soya Protein Isolate(30%) 30.00gm, Calcium 1300.00mg, Phosphorus 1004.56mg, Potassium 860.00mg, Magnesium 350.00mg, Chloride 240.00mg, Sodium 198.68mg, DHA (Docosahexaenoic Acid)10% Veg 80.00mg,  Vitamin C 80.00 mg, Iron 27.00mg, Vitamin E 19.80mg, Niacin 14.00mg, Pantothenic Acid 6.00mg, Vitamin B6 5mg, Zinc 4.40mg, Vitamin B2 2.60mg, Vitamin B1 1.10mg, Folic Acid 800.00mcg, Copper 480.00mcg, Iodine 88mcg, Vitamin A 60mcg, Biotin 30mcg, Selenium 24mcg, Vitamin B12 .50mcg</td>
+                                
+                              </tr>
+                            
+                               
+                              
+                            </tbody>
+                          </table>
+                    </div>
+                        
+                    
+        <!-- End of Product table-2 -->
+                    
                     
                 </div>
             </div>
+            
+            
+            
         </section>
-        <!-- End Service Area -->
+        
+        
+        <!-- End of Product table -->
        
  
 

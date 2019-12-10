@@ -48,8 +48,8 @@
 }
 
 
-.product-slider .text-center {
-  padding-top: 50px;
+.product-slider{
+  padding-top: 60px;
 }
 .thumb {
   margin-right: 15px;
@@ -64,8 +64,18 @@
    margin: 0;
 }
 
-.service--page {
-  margin: 0 !important;
-  padding-top: 60px;
+
+
+.product_name_table {
+  margin: 0 0 30px 0;
+  display: block;
+}
+.table.table-bordered {
+  display: block;
+}
+
+.table.table-bordered th {
+  font-size: 18px;
+  color: #49a010;
 }
 /* for product page */
