@@ -15,71 +15,11 @@
                 </div>
             </div>
         </div>
+        
         <!-- End Bradcaump area -->
         <!-- Start Service Area -->
         
-        
-        <div class="product-slider">
-        <div class="container">
-               
-               
-                 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="2000">
-                        <!-- Indicators -->
-                        <ol class="carousel-indicators">
-                          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                          <li data-target="#myCarousel" data-slide-to="1"></li>
-                          <li data-target="#myCarousel" data-slide-to="2"></li>
-                        </ol>
-
-                        <!-- Wrapper for slides -->
-                        <div class="carousel-inner">
-
-
-                          <div id="thumbcarousel" class="carousel slide" data-interval="false">
-                        <div class="carousel-inner">
-                                           <div class="item active">
-                                                <div data-target="#carousel" data-slide-to="0" class="thumb"><img src="images/products/tab-3.jpg"></div>
-                                                <div data-target="#carousel" data-slide-to="1" class="thumb"><img src="images/products/tab-2.jpg"></div>
-                                                <div data-target="#carousel" data-slide-to="2" class="thumb"><img src="images/products/tab-1.jpg"></div>
-                                                <div data-target="#carousel" data-slide-to="3" class="thumb"><img src="images/products/tab-3.jpg"></div>
-                                            </div><!-- /item -->
-                                            <div class="item">
-                                                <div data-target="#carousel" data-slide-to="4" class="thumb"><img src="images/products/tab-2.jpg"></div>
-                                                <div data-target="#carousel" data-slide-to="5" class="thumb"><img src="images/products/tab-3.jpg"></div>
-                                                <div data-target="#carousel" data-slide-to="6" class="thumb"><img src="images/products/tab-1.jpg"></div>
-                                                <div data-target="#carousel" data-slide-to="7" class="thumb"><img src="images/products/tab-2.jpg"></div>
-                                            </div><!-- /item -->
-                                            <div class="item">
-                                                <div data-target="#carousel" data-slide-to="5" class="thumb"><img src="images/products/tab-3.jpg"></div>
-                                                <div data-target="#carousel" data-slide-to="6" class="thumb"><img src="images/products/tab-1.jpg"></div>
-                                                <div data-target="#carousel" data-slide-to="4" class="thumb"><img src="images/products/tab-2.jpg"></div>
-                                                <div data-target="#carousel" data-slide-to="7" class="thumb"><img src="images/products/tab-2.jpg"></div>
-                                            </div><!-- /item -->
-                        </div><!-- /carousel-inner -->
-                    </div> <!-- /thumbcarousel -->
-
-
-
-                        </div>
-
-  
-              </div>
-                <div class="clearfix">
-                
-               
-                
-                </div><!-- /clearfix -->
-
-
-
-
-
-            
-            
-        </div>
-        </div>
-        
-        
+     
         
         <section class="htc__service__area service--page bg__gray ptb--120">
             <div class="container">

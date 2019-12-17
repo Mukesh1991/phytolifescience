@@ -31,7 +31,8 @@
                         <div class="htc__google__map">
                             <div class="map-contacts">
                                
-                               <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d5771.486224430306!2d76.73429378366899!3d30.669273409713153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sPhase-9%2C%20Industrial%20Area%2CS.A.S.Nagar-160062!5e0!3m2!1sen!2sin!4v1567743455896!5m2!1sen!2sin" width="100%" height="550" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                               
+                               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3431.7493962682306!2d76.73867255056649!3d30.669184581569393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390febd304a8ec91%3A0x319fd687eb7fb8b8!2sPhytologix%20Life%20Sciences!5e0!3m2!1sen!2sin!4v1576533187639!5m2!1sen!2sin" width="100%" height="550" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                                
                                
                                 <!--<div id="googleMap"></div>-->
